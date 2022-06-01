@@ -103,7 +103,7 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-/* .column {
+.column {
   float: left;
 }
 .left {
@@ -111,5 +111,5 @@ img {
 }
 .right {
   width: 75%;
-} */
+}
 </style>
